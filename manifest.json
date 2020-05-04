@@ -1,0 +1,14 @@
+{
+  "name": "PhotonMorse12",
+  "short_name": "PhotonMorse12",
+  "description": "application for transmitting textmassages from a choo web app, to Photopn particle and translate it into morse-code",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000",
+  "theme_color": "#000",
+  "icons": [{
+    "src": "/assets/icon.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }]
+}
